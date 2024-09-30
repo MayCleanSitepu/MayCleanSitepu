@@ -1,4 +1,4 @@
-# Hi! I'm klinnn (tiple n) - May Clean
+# Hi! I'm klinnn - May Clean
 ## About me
 👋 Hi there! I'm May Clean Sitepu, a passionate full-stack developer with a strong inclination towards front-end development. I love diving deep into the world of animations and 3D, constantly exploring and experimenting with new and exciting technologies.
 
