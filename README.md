@@ -4,7 +4,7 @@
 
 🌟 My interests span from creating visually appealing user interfaces to crafting immersive 3D experiences. Whether it's working with modern frameworks or pushing the boundaries of web animations, I am always eager to learn and innovate.
 
-### 🃏 Jack Of All Trade Master Of None
+### 🃏 Jack Of All Trade 
 ---
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/meikuring)
