@@ -11,7 +11,7 @@ Always learning. Always shipping. 🚀
 ## 🛠️ Toolbox
 ```yaml
 Frontend:  Next.js, React, Tailwind, Three.js  
-Backend:   Node.js, NestJS, Strapi  
+Backend:   PHP, Node.js, NestJS, Strapi  
 Database:  PostgreSQL, Prisma, Drizzle  
 Ops:       Docker, GitHub Actions, MikroTik configs  
 Testing:   Playwright, Selenium  
