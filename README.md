@@ -25,15 +25,6 @@ Testing:   Playwright, Selenium
 🔹 **Rentzy** → Rental management ecosystem (NestJS + Drizzle + Better-Auth)  
 🔹 **Palongaan Village Site** → Community project with agenda + CCTV mapping  
 
-*(see pinned repos for more!)*  
-
----
-
-## 📊 GitHub Overview
-![Stats](https://github-readme-stats.vercel.app/api?username=MayCleanSitepu&show_icons=true&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayCleanSitepu&layout=compact&theme=radical&hide_border=true)  
-
----
 
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayclean-sitepu/)  
